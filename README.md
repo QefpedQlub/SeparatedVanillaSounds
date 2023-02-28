@@ -1,4 +1,4 @@
-# Separate Vanilla Sounds  
+# Separated Vanilla Sounds  
 
 In its simplest form, this **resource pack** only adds more sound events for each **Vanilla** sound.  
 They still have their subtitles and play how they normally sound from using the **Vanilla** sound events.  
