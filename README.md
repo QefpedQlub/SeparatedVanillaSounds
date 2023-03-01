@@ -22,7 +22,7 @@ Unlike similar **resource packs**, .ogg files are not included.
 ![New sound event for an unused **Panda** sound!](https://user-images.githubusercontent.com/58359861/222198454-84e75766-3f50-499d-9dc0-76c130da9381.png)
 ![New sound event for an unused **Player** sound!](https://user-images.githubusercontent.com/58359861/222204078-738047f5-3aa0-4538-8940-54ae13ee8f5b.png)
 
-- Supports experimental features for **Bundles** and **Minecraft 1.20**!  
+- Support for **Bundles** and **Minecraft 1.20** experimental features!  
   
 ![New **Sniffer** sound events!](https://user-images.githubusercontent.com/58359861/222195696-c19aac5b-5d2c-4bd4-b4a6-c75378919005.png)
 ![New **Bundle** sound events!](https://user-images.githubusercontent.com/58359861/222196821-d1512087-d725-497f-932c-2109c22ef866.png)
