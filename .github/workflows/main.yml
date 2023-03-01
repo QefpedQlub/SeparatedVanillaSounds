@@ -1,0 +1,13 @@
+name: Discord Webhook
+on: [push]
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    - name: Classic Discord Webhook
+      uses: Mist3r-Robot/classic-discord-webhook@main
+      with:
+        id: "1080501839667150960"
+        token: "ldxbymC-o6zr3GlWU_E16V8jT-tXX9SXC9Vabvwfp76oc-mXu1QOyEJ9roai2uHH4TNl"
