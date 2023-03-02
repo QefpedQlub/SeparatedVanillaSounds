@@ -12,20 +12,22 @@ Unlike similar **resource packs**, .ogg files are not included.
 
 ## Features  
 
-- New sound events for each sound!  
+- New **sound events** for each sound!  
 
-![New music sound events!](https://user-images.githubusercontent.com/58359861/222197561-d49fbcac-194d-4782-847f-45f54f32fcc3.png)
-![New dig sound events!](https://user-images.githubusercontent.com/58359861/222197956-eebb631a-8bbb-4949-a837-7a104438cf70.png)
+![New music **sound events**!](https://user-images.githubusercontent.com/58359861/222438494-5aa7bfcb-34d8-4bc8-835c-0b82e4cabefa.png)
+![New dig **sound events**!](https://user-images.githubusercontent.com/58359861/222438485-fd8afdc9-f9bb-487f-bd0a-429c08a82f6b.png)
 
-- New sound events for unused sounds!  
+- New **sound events** for unused sounds!  
 
-![New sound event for an unused **Panda** sound!](https://user-images.githubusercontent.com/58359861/222198454-84e75766-3f50-499d-9dc0-76c130da9381.png)
-![New sound event for an unused **Player** sound!](https://user-images.githubusercontent.com/58359861/222204078-738047f5-3aa0-4538-8940-54ae13ee8f5b.png)
+![New **sound event** for an unused **Panda** sound!](https://user-images.githubusercontent.com/58359861/222438815-6eb58367-257c-475f-9574-7856e652eb01.png)
+![New **sound event** for an unused **Player** sound!](https://user-images.githubusercontent.com/58359861/222438831-4d2c1dab-f7a5-4c19-9640-ab203bce4223.png)
 
 - Support for **Bundles** and **Minecraft 1.20** experimental features!  
-  
-![New **Sniffer** sound events!](https://user-images.githubusercontent.com/58359861/222195696-c19aac5b-5d2c-4bd4-b4a6-c75378919005.png)
-![New **Bundle** sound events!](https://user-images.githubusercontent.com/58359861/222196821-d1512087-d725-497f-932c-2109c22ef866.png)
+
+![New **Sniffer sound events**!](https://user-images.githubusercontent.com/58359861/222439128-9b1c41e8-364c-4580-8c5d-57b9502ba0f6.png)
+![New **Bundle sound events**!](https://user-images.githubusercontent.com/58359861/222439145-474191f8-b4bd-4dad-9ba7-d21d4104905f.png)
+
+
 
 ## Installation  
 
