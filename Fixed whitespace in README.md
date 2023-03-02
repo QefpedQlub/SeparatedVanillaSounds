@@ -3,7 +3,7 @@
 In its simplest form, this **resource pack** only adds more sound events for each **Vanilla** sound.  
 Some sounds have slight modifications but should still be consistent with the game.  
 
-Names are based on path directories to the  sound files.  
+Names are based on path directories to the sound files.  
 (E.g. The **Ancestry** track is located in `music/game`, so the new event is called `music.game.ancestry`)  
 
 Unlike similar **resource packs**, .ogg files are not included.  
