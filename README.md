@@ -1,4 +1,4 @@
-# Separated Vanilla Sounds  
+![**Separated Vanilla Sounds** logo](https://user-images.githubusercontent.com/58359861/222437920-3f337b21-72bb-45d6-a89d-94209c0bd630.png)  
 
 In its simplest form, this **resource pack** only adds more sound events for each **Vanilla** sound.  
 Some sounds have slight modifications but should still be consistent with the game.  
