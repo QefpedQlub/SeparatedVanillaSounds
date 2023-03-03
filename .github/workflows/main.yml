@@ -1,13 +1,19 @@
 name: Discord Webhook
-on: [push]
+on:
+    push:
+        branches:
+        - main
+        - release/*
 jobs:
-  discord_notification:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-    - name: Classic Discord Webhook
-      uses: Mist3r-Robot/classic-discord-webhook@main
-      with:
-        id: "1080501839667150960"
-        token: "ldxbymC-o6zr3GlWU_E16V8jT-tXX9SXC9Vabvwfp76oc-mXu1QOyEJ9roai2uHH4TNl"
+    discord_notification:
+        runs-on: windows-latest
+        steps:
+          - name: fancier-discord-webhooks
+            # You may pin to the exact commit or the version.
+            # uses: baked-libs/maven-discord-integration@6ec030ef5220f2d156d35888f46476e66f2a95a7
+            uses: baked-libs/maven-discord-integration@1.5.1
+            with:
+                # The Discord Webhook id
+                id: 1080501839667150960
+                # The Discord Webhook token
+                token: ldxbymC-o6zr3GlWU_E16V8jT-tXX9SXC9Vabvwfp76oc-mXu1QOyEJ9roai2uHH4TNl
